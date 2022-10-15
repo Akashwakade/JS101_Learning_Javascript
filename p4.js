@@ -1,4 +1,4 @@
-let name= "Akash Bharat Wakade"
+let name= " Bharat Wakade"
 let school= "Kishanlal Tapdiya Memorial School"
 let grade= "A+"
 let section="A"
